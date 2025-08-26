@@ -1,6 +1,7 @@
 # Hi there, I'm Cecilia Grace Matini Nyanje! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](your_banner_image_url_here)<img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9660.jpg" alt="Female developer background | Premium AI-generated image"/>![Uploading image.png…]()
+
 
 ## About Me 🚀
 
