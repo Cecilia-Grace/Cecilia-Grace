@@ -1,15 +1,11 @@
-# Hi there, I'm Cecilia Grace Matini Nyanje! 👋
-
-<img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9660.jpg" alt="Female developer background | Premium AI-generated image"/>
-
 # 👋 Hi, I'm **Cecilia Grace Matini Nyanje**  
 ### 🚀 Backend Software Engineer
 
-![Gradient Banner](https://user-images.githubusercontent.com/13468728/224566896-ff30e150-d95c-472a-b1c3-b522fb6e5c44.png)
+<img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9660.jpg" alt="Female developer background | Premium AI-generated image"/>
 
 ![Tech Lady](https://user-images.githubusercontent.com/13468728/224566986-8f15b8b5-0f16-4b2f-9a2f-9a5fdbe09bb1.gif)
 
-Passionate about **low-level systems**, **automation**, scalable backend services, and building tools that make engineers happier.
+Passionate about **systems and servers**, **automation**, scalable backend services, and building tools that make engineers happier.
 
 ---
 
