@@ -5,9 +5,9 @@
 # 👋 Hi, I'm **Cecilia Grace Matini Nyanje**  
 ### 🚀 Backend Software Engineer
 
-![Gradient Banner](https://i.ibb.co/4ZX1H4S/pink-purple-tech-banner.png)
+![Gradient Banner](https://user-images.githubusercontent.com/13468728/224566896-ff30e150-d95c-472a-b1c3-b522fb6e5c44.png)
 
-![Tech Lady](https://i.ibb.co/5M5hD9X/tech-lady-pink-purple.gif)
+![Tech Lady](https://user-images.githubusercontent.com/13468728/224566986-8f15b8b5-0f16-4b2f-9a2f-9a5fdbe09bb1.gif)
 
 Passionate about **low-level systems**, **automation**, scalable backend services, and building tools that make engineers happier.
 
