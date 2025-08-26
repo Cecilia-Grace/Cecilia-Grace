@@ -5,7 +5,7 @@
 # 👋 Hi, I'm **Cecilia Grace Matini Nyanje**  
 ### 🚀 Backend Software Engineer
 
-![Coding Vibes](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![Tech Lady](https://i.imgur.com/Vd4rXPt.gif)
 
 Passionate about **low-level systems**, **automation**, scalable backend services, and building tools that make engineers happier.
 
